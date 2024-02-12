@@ -1,4 +1,1 @@
-
-
-
-helooooooo
+print("Hello World")
