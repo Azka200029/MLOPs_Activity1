@@ -13,4 +13,3 @@ COPY . /app
 CMD [ "python", "./your_script.py" ]
 
 
-
