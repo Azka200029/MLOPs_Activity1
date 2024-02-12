@@ -11,5 +11,3 @@ COPY . /app
 
 # Define the command to run when the container starts
 CMD [ "python", "./your_script.py" ]
-
-
